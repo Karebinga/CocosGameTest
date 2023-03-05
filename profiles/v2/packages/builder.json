@@ -11,7 +11,7 @@
         "progress": 1,
         "state": "success",
         "stage": "run",
-        "message": "3-5-2023 17:19:21 run package D:\\Documents\\2d-game-cocos-creator-v.3-main\\2d-game-cocos-creator-v.3-main\\build\\web-desktop success!",
+        "message": "3-5-2023 18:07:44 run package D:\\Documents\\2d-game-cocos-creator-v.3-main\\2d-game-cocos-creator-v.3-main\\build\\web-desktop success!",
         "options": {
           "name": "test_1",
           "platform": "web-desktop",
@@ -42,7 +42,7 @@
           "packages": {},
           "__version__": "1.3.4"
         },
-        "time": "3-5-2023 17:18",
+        "time": "3-5-2023 18:07",
         "dirty": false
       }
     }

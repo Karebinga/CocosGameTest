@@ -1,219 +1,188 @@
-2023-03-05T14:16:08.333Z - verbose: Arguments:
-2023-03-05T14:16:08.334Z - verbose:   D:\CocosDashboard\resources\.editors\Creator\3.7.1\CocosCreator.exe: true
-2023-03-05T14:16:08.334Z - verbose:   project: D:\Documents\2d-game-cocos-creator-v.3-main\2d-game-cocos-creator-v.3-main
-2023-03-05T14:16:08.334Z - verbose:   dev: false
-2023-03-05T14:16:08.334Z - verbose:   home: C:\Users\kareb\.CocosCreator
-2023-03-05T14:16:08.334Z - verbose:  
-2023-03-05T14:16:15.475Z - verbose: [Package] menu@1.0.0 enable
-2023-03-05T14:16:15.487Z - verbose: [Package] profile@1.0.0 enable
-2023-03-05T14:16:15.544Z - verbose: [Package] project@1.0.4 enable
-2023-03-05T14:16:15.575Z - verbose: [Package] messages@1.0.0 enable
-2023-03-05T14:16:15.671Z - verbose: [Package] program@1.0.3 enable
-2023-03-05T14:16:15.698Z - verbose: [Package] tester@1.0.0 enable
-2023-03-05T14:16:15.707Z - verbose: [Package] information@1.0.0 enable
-2023-03-05T14:16:15.731Z - verbose: [Package] preferences@1.0.0 enable
-2023-03-05T14:16:25.972Z - log: Load engine in D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine
-2023-03-05T14:16:27.460Z - log: Register native engine in D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\native
-2023-03-05T14:16:27.464Z - verbose: [Package] engine@1.0.7 enable
-2023-03-05T14:16:30.667Z - verbose: [Package] programming@1.0.0 enable
-2023-03-05T14:16:30.699Z - verbose: [Package] device@1.0.1 enable
-2023-03-05T14:16:30.722Z - verbose: [Package] ui-kit@1.0.1 enable
-2023-03-05T14:16:31.151Z - verbose: [Package] asset-db@1.0.0 enable
-2023-03-05T14:16:31.234Z - verbose: [Package] scene@1.0.0 enable
-2023-03-05T14:16:31.673Z - verbose: [Package] server@1.0.0 enable
-2023-03-05T14:16:31.753Z - verbose: [Package] utils@1.0.0 enable
-2023-03-05T14:17:02.088Z - verbose: [Package] preview@1.0.1 enable
-2023-03-05T14:17:02.139Z - verbose: [Package] animator@1.0.0 enable
-2023-03-05T14:17:02.640Z - verbose: [Build-plugin] register pkg scene: 4ms
-2023-03-05T14:17:02.640Z - verbose: Builder PluginManager init: 4ms
-2023-03-05T14:17:02.647Z - log: Profile changed: builder (log.level: 4)
-2023-03-05T14:17:02.664Z - verbose: [Package] builder@1.3.4 enable
-2023-03-05T14:17:02.720Z - verbose: [Package] shortcuts@1.0.1 enable
-2023-03-05T14:17:02.774Z - verbose: [Package] animation-graph@1.0.0 enable
-2023-03-05T14:17:02.826Z - verbose: [Package] about@1.0.0 enable
-2023-03-05T14:17:02.872Z - verbose: [Package] assets@1.0.0 enable
-2023-03-05T14:17:02.916Z - verbose: [Package] console@1.0.0 enable
-2023-03-05T14:17:03.715Z - verbose: [Package] crash-reporter@1.0.0 enable
-2023-03-05T14:17:04.393Z - verbose: [Package] extension@3.1.0 enable
-2023-03-05T14:17:04.451Z - verbose: [Package] hierarchy@1.0.0 enable
-2023-03-05T14:17:04.509Z - verbose: [Package] inspector@1.0.0 enable
-2023-03-05T14:17:04.557Z - verbose: [Package] light-probe@1.0.4 enable
-2023-03-05T14:17:04.616Z - verbose: [Package] lightmap@1.0.4 enable
-2023-03-05T14:17:04.671Z - verbose: [Package] node-library@1.0.1 enable
-2023-03-05T14:17:04.698Z - verbose: [Package] package-asset@1.0.1 enable
-2023-03-05T14:17:04.756Z - verbose: [Package] process@1.0.0 enable
-2023-03-05T14:17:04.808Z - verbose: [Package] reference-image@1.0.0 enable
-2023-03-05T14:17:04.863Z - verbose: [Package] reflection-probe@1.0.4 enable
-2023-03-05T14:17:04.894Z - verbose: [Package] engine-extends@1.0.0 enable
-2023-03-05T14:17:04.923Z - verbose: [Package] alipay-mini-game@1.0.1 enable
-2023-03-05T14:17:04.950Z - verbose: [Package] android@1.0.1 enable
-2023-03-05T14:17:05.079Z - verbose: [Package] bytedance-mini-game@1.0.2 enable
-2023-03-05T14:17:05.113Z - verbose: [Package] certificate@1.0.0 enable
-2023-03-05T14:17:05.143Z - verbose: [Package] channel-upload-tools@1.0.0 enable
-2023-03-05T14:17:05.172Z - verbose: [Package] fb-instant-games@1.0.0 enable
-2023-03-05T14:17:05.206Z - verbose: [Package] huawei-agc@1.0.0 enable
-2023-03-05T14:17:05.240Z - verbose: [Package] huawei-quick-game@1.0.1 enable
-2023-03-05T14:17:05.279Z - verbose: [Package] ios@1.0.0 enable
-2023-03-05T14:17:05.311Z - verbose: [Package] linux@1.0.0 enable
-2023-03-05T14:17:05.342Z - verbose: [Package] mac@1.0.0 enable
-2023-03-05T14:17:05.542Z - verbose: [Package] native@1.0.2 enable
-2023-03-05T14:17:05.675Z - verbose: [Build-plugin] register pkg native: 133ms
-2023-03-05T14:17:05.679Z - verbose: [Package] ohos@1.0.0 enable
-2023-03-05T14:17:05.713Z - verbose: [Package] open-harmonyos@1.0.0 enable
-2023-03-05T14:17:05.742Z - verbose: [Package] oppo-mini-game@1.0.1 enable
-2023-03-05T14:17:05.776Z - verbose: [Package] runtime-dev-tools@1.0.0 enable
-2023-03-05T14:17:05.805Z - verbose: [Package] taobao-creative-app@1.0.0 enable
-2023-03-05T14:17:05.841Z - verbose: [Package] vivo-mini-game@1.0.1 enable
-2023-03-05T14:17:05.926Z - verbose: [Package] web-desktop@1.0.1 enable
-2023-03-05T14:17:05.977Z - verbose: [Package] web-mobile@1.0.1 enable
-2023-03-05T14:17:06.028Z - verbose: [Package] wechatgame@1.0.2 enable
-2023-03-05T14:17:06.064Z - verbose: [Package] windows@1.0.1 enable
-2023-03-05T14:17:06.098Z - verbose: [Package] xiaomi-quick-game@1.0.1 enable
-2023-03-05T14:17:06.126Z - verbose: [Build-plugin] register pkg android: 1176ms
-2023-03-05T14:17:06.687Z - verbose: [Package] cocos-service@3.0.5 enable
-2023-03-05T14:17:06.824Z - verbose: [Build-plugin] register pkg cocos-service: 134ms
-2023-03-05T14:17:07.439Z - verbose: [Package] im-plugin@3.0.10 enable
-2023-03-05T14:17:07.443Z - verbose: [Build-plugin] register pkg bytedance-mini-game: 2364ms
-2023-03-05T14:17:07.448Z - verbose: [Build-plugin] register pkg huawei-quick-game: 2208ms
-2023-03-05T14:17:07.458Z - verbose: [Build-plugin] register pkg oppo-mini-game: 1716ms
-2023-03-05T14:17:07.462Z - verbose: [Build-plugin] register pkg ios: 2183ms
-2023-03-05T14:17:07.471Z - verbose: [Build-plugin] register pkg huawei-agc: 2265ms
-2023-03-05T14:17:07.475Z - verbose: [Build-plugin] register pkg fb-instant-games: 2303ms
-2023-03-05T14:17:07.481Z - verbose: [Build-plugin] register pkg web-mobile: 1503ms
-2023-03-05T14:17:07.493Z - verbose: [Build-plugin] register pkg ohos: 1814ms
-2023-03-05T14:17:07.497Z - verbose: [Build-plugin] register pkg mac: 2155ms
-2023-03-05T14:17:07.505Z - verbose: [Build-plugin] register pkg taobao-creative-app: 1700ms
-2023-03-05T14:17:07.510Z - verbose: [Build-plugin] register pkg vivo-mini-game: 1669ms
-2023-03-05T14:17:07.515Z - verbose: [Build-plugin] register pkg web-desktop: 1588ms
-2023-03-05T14:17:07.523Z - verbose: [Build-plugin] register pkg windows: 1459ms
-2023-03-05T14:17:07.528Z - verbose: [Build-plugin] register pkg wechatgame: 1500ms
-2023-03-05T14:17:07.569Z - verbose: [Package] placeholder@1.0.0 enable
-2023-03-05T14:17:07.993Z - verbose: [Build-plugin] register pkg xiaomi-quick-game: 1895ms
-2023-03-05T14:17:16.481Z - verbose: asset-db is ready!
-2023-03-05T14:17:23.586Z - info: [Scene] [Physics][Bullet]: Using asmjs Bullet libs.
-2023-03-05T14:17:23.627Z - info: [Scene] [PHYSICS]: using builtin.
-2023-03-05T14:17:24.220Z - log: [Scene] Cocos Creator v3.7.1
-2023-03-05T14:17:24.221Z - info: [Scene] Forward render pipeline initialized.
-2023-03-05T14:17:24.591Z - warn: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.Error: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.
-    at warn (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152073:12)
-    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152292:5)
-    at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167554:7)
-    at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167574:7)
-    at Object.execute (file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/temp/programming/packer-driver/targets/editor/chunks/cf/cfac0133f3c11fb2c5051c9d803362c8f2c83588.js:33:7)
-    at doExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
-    at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
-2023-03-05T14:17:24.685Z - warn: [Scene] 'SystemEventType' is deprecated since v3.3.0, please use 'Input.EventType' instead.Error: [Scene] 'SystemEventType' is deprecated since v3.3.0, please use 'Input.EventType' instead.
-    at warn (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152073:12)
-    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152292:5)
-    at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167554:7)
-    at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167574:7)
-    at Object.execute (file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/temp/programming/packer-driver/targets/editor/chunks/cf/cfac0133f3c11fb2c5051c9d803362c8f2c83588.js:33:7)
-    at doExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
-    at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
-2023-03-05T14:17:24.696Z - info: [Scene] [PHYSICS]: switch from builtin to bullet.
-2023-03-05T14:17:24.815Z - info: [Scene] [PHYSICS2D]: switch from builtin to box2d.
-2023-03-05T14:17:27.192Z - warn: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.Error: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.
-    at warn (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152073:12)
-    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152292:5)
-    at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167554:7)
-    at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167574:7)
-    at Object.execute (file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/temp/programming/packer-driver/targets/editor/chunks/cf/cfac0133f3c11fb2c5051c9d803362c8f2c83588.js:33:7)
-    at doExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
-    at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
-2023-03-05T14:17:27.193Z - warn: [Scene] 'SystemEventType' is deprecated since v3.3.0, please use 'Input.EventType' instead.Error: [Scene] 'SystemEventType' is deprecated since v3.3.0, please use 'Input.EventType' instead.
-    at warn (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152073:12)
-    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152292:5)
-    at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167554:7)
-    at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167574:7)
-    at Object.execute (file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/temp/programming/packer-driver/targets/editor/chunks/cf/cfac0133f3c11fb2c5051c9d803362c8f2c83588.js:33:7)
-    at doExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
-    at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
-2023-03-05T14:18:13.498Z - verbose: [
-2023-03-05T14:18:13.498Z - verbose: [
-2023-03-05T14:18:13.498Z - verbose: [
-2023-03-05T14:18:13.498Z - verbose: [
-2023-03-05T14:18:13.498Z - verbose: [
-2023-03-05T14:18:13.498Z - verbose: [
-2023-03-05T14:18:13.498Z - verbose: [
-2023-03-05T14:18:13.498Z - verbose: [
-2023-03-05T14:18:13.498Z - verbose: [
-2023-03-05T14:18:13.498Z - verbose: [
-2023-03-05T14:18:13.498Z - verbose: [
-2023-03-05T14:18:13.498Z - verbose: [
-2023-03-05T14:18:13.498Z - verbose: [
-2023-03-05T14:18:13.506Z - verbose: [
-2023-03-05T14:18:13.708Z - verbose: [
-2023-03-05T14:18:13.708Z - verbose: [
-2023-03-05T14:18:13.844Z - verbose: [
-2023-03-05T14:18:13.907Z - verbose: [
-2023-03-05T14:18:13.913Z - verbose: [
-2023-03-05T14:18:13.913Z - verbose: B
-2023-03-05T14:18:23.100Z - warn: [Assets] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.[Assets] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.  
-at warn (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152073:12)  
-at warnID (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152292:5)  
-at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167554:7)  
-at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167574:7)  
-at Object.execute (file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/temp/programming/packer-driver/targets/editor/chunks/cf/cfac0133f3c11fb2c5051c9d803362c8f2c83588.js:33:7)  
-at doExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
-2023-03-05T14:18:23.193Z - warn: [Assets] 'SystemEventType' is deprecated since v3.3.0, please use 'Input.EventType' instead.[Assets] 'SystemEventType' is deprecated since v3.3.0, please use 'Input.EventType' instead.  
-at warn (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152073:12)  
-at warnID (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152292:5)  
-at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167554:7)  
-at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167574:7)  
-at Object.execute (file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/temp/programming/packer-driver/targets/editor/chunks/cf/cfac0133f3c11fb2c5051c9d803362c8f2c83588.js:33:7)  
-at doExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
-2023-03-05T14:19:48.817Z - log: [Window] Deprecated as of 10.7.0. highlight(lang, code, ...args) has been deprecated.
-2023-03-05T14:19:48.817Z - log: [Window] Deprecated as of 10.7.0. Please use highlight(code, options) instead.
+2023-03-05T14:56:40.841Z - verbose: Arguments:
+2023-03-05T14:56:40.842Z - verbose:   D:\CocosDashboard\resources\.editors\Creator\3.7.1\CocosCreator.exe: true
+2023-03-05T14:56:40.842Z - verbose:   project: D:\Documents\2d-game-cocos-creator-v.3-main\2d-game-cocos-creator-v.3-main
+2023-03-05T14:56:40.842Z - verbose:   dev: false
+2023-03-05T14:56:40.842Z - verbose:   home: C:\Users\kareb\.CocosCreator
+2023-03-05T14:56:40.842Z - verbose:  
+2023-03-05T14:56:45.403Z - verbose: [Package] menu@1.0.0 enable
+2023-03-05T14:56:45.408Z - verbose: [Package] profile@1.0.0 enable
+2023-03-05T14:56:45.426Z - verbose: [Package] project@1.0.4 enable
+2023-03-05T14:56:45.437Z - verbose: [Package] messages@1.0.0 enable
+2023-03-05T14:56:45.468Z - verbose: [Package] program@1.0.3 enable
+2023-03-05T14:56:45.478Z - verbose: [Package] tester@1.0.0 enable
+2023-03-05T14:56:45.482Z - verbose: [Package] information@1.0.0 enable
+2023-03-05T14:56:45.492Z - verbose: [Package] preferences@1.0.0 enable
+2023-03-05T14:56:49.730Z - log: Load engine in D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine
+2023-03-05T14:56:50.414Z - log: Register native engine in D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\native
+2023-03-05T14:56:50.418Z - verbose: [Package] engine@1.0.7 enable
+2023-03-05T14:56:52.291Z - verbose: [Package] programming@1.0.0 enable
+2023-03-05T14:56:52.298Z - verbose: [Package] device@1.0.1 enable
+2023-03-05T14:56:52.312Z - verbose: [Package] ui-kit@1.0.1 enable
+2023-03-05T14:56:52.480Z - verbose: [Package] asset-db@1.0.0 enable
+2023-03-05T14:56:52.542Z - verbose: [Package] scene@1.0.0 enable
+2023-03-05T14:56:52.771Z - verbose: [Package] server@1.0.0 enable
+2023-03-05T14:56:52.808Z - verbose: [Package] utils@1.0.0 enable
+2023-03-05T14:57:02.136Z - verbose: [Package] preview@1.0.1 enable
+2023-03-05T14:57:02.183Z - verbose: [Package] animator@1.0.0 enable
+2023-03-05T14:57:02.555Z - verbose: [Build-plugin] register pkg scene: 3ms
+2023-03-05T14:57:02.555Z - verbose: Builder PluginManager init: 3ms
+2023-03-05T14:57:02.564Z - verbose: [Package] builder@1.3.4 enable
+2023-03-05T14:57:02.604Z - verbose: [Package] shortcuts@1.0.1 enable
+2023-03-05T14:57:02.640Z - verbose: [Package] animation-graph@1.0.0 enable
+2023-03-05T14:57:02.671Z - verbose: [Package] about@1.0.0 enable
+2023-03-05T14:57:02.704Z - verbose: [Package] assets@1.0.0 enable
+2023-03-05T14:57:02.736Z - verbose: [Package] console@1.0.0 enable
+2023-03-05T14:57:03.252Z - verbose: [Package] crash-reporter@1.0.0 enable
+2023-03-05T14:57:03.712Z - verbose: [Package] extension@3.1.0 enable
+2023-03-05T14:57:03.747Z - verbose: [Package] hierarchy@1.0.0 enable
+2023-03-05T14:57:03.787Z - verbose: [Package] inspector@1.0.0 enable
+2023-03-05T14:57:03.821Z - verbose: [Package] light-probe@1.0.4 enable
+2023-03-05T14:57:03.863Z - verbose: [Package] lightmap@1.0.4 enable
+2023-03-05T14:57:03.897Z - verbose: [Package] node-library@1.0.1 enable
+2023-03-05T14:57:03.922Z - verbose: [Package] package-asset@1.0.1 enable
+2023-03-05T14:57:03.965Z - verbose: [Package] process@1.0.0 enable
+2023-03-05T14:57:04.001Z - verbose: [Package] reference-image@1.0.0 enable
+2023-03-05T14:57:04.034Z - verbose: [Package] reflection-probe@1.0.4 enable
+2023-03-05T14:57:04.059Z - verbose: [Package] engine-extends@1.0.0 enable
+2023-03-05T14:57:04.083Z - verbose: [Package] alipay-mini-game@1.0.1 enable
+2023-03-05T14:57:04.108Z - verbose: [Package] android@1.0.1 enable
+2023-03-05T14:57:04.201Z - verbose: [Package] bytedance-mini-game@1.0.2 enable
+2023-03-05T14:57:04.229Z - verbose: [Package] certificate@1.0.0 enable
+2023-03-05T14:57:04.253Z - verbose: [Package] channel-upload-tools@1.0.0 enable
+2023-03-05T14:57:04.278Z - verbose: [Package] fb-instant-games@1.0.0 enable
+2023-03-05T14:57:04.313Z - verbose: [Package] huawei-agc@1.0.0 enable
+2023-03-05T14:57:04.342Z - verbose: [Package] huawei-quick-game@1.0.1 enable
+2023-03-05T14:57:04.376Z - verbose: [Package] ios@1.0.0 enable
+2023-03-05T14:57:04.404Z - verbose: [Package] linux@1.0.0 enable
+2023-03-05T14:57:04.428Z - verbose: [Package] mac@1.0.0 enable
+2023-03-05T14:57:04.577Z - verbose: [Package] native@1.0.2 enable
+2023-03-05T14:57:04.675Z - verbose: [Build-plugin] register pkg native: 98ms
+2023-03-05T14:57:04.679Z - verbose: [Package] ohos@1.0.0 enable
+2023-03-05T14:57:04.696Z - verbose: [Build-plugin] register pkg android: 588ms
+2023-03-05T14:57:04.710Z - verbose: [Package] open-harmonyos@1.0.0 enable
+2023-03-05T14:57:04.734Z - verbose: [Package] oppo-mini-game@1.0.1 enable
+2023-03-05T14:57:04.757Z - verbose: [Build-plugin] register pkg ios: 381ms
+2023-03-05T14:57:04.763Z - verbose: [Package] runtime-dev-tools@1.0.0 enable
+2023-03-05T14:57:04.787Z - verbose: [Package] taobao-creative-app@1.0.0 enable
+2023-03-05T14:57:04.816Z - verbose: [Package] vivo-mini-game@1.0.1 enable
+2023-03-05T14:57:04.889Z - verbose: [Package] web-desktop@1.0.1 enable
+2023-03-05T14:57:04.931Z - verbose: [Package] web-mobile@1.0.1 enable
+2023-03-05T14:57:04.974Z - verbose: [Package] wechatgame@1.0.2 enable
+2023-03-05T14:57:05.005Z - verbose: [Package] windows@1.0.1 enable
+2023-03-05T14:57:05.012Z - verbose: [Build-plugin] register pkg bytedance-mini-game: 811ms
+2023-03-05T14:57:05.034Z - verbose: [Package] xiaomi-quick-game@1.0.1 enable
+2023-03-05T14:57:05.426Z - verbose: [Package] cocos-service@3.0.5 enable
+2023-03-05T14:57:05.518Z - verbose: [Build-plugin] register pkg cocos-service: 90ms
+2023-03-05T14:57:05.936Z - verbose: [Package] im-plugin@3.0.10 enable
+2023-03-05T14:57:05.941Z - verbose: [Build-plugin] register pkg fb-instant-games: 1663ms
+2023-03-05T14:57:05.945Z - verbose: [Build-plugin] register pkg ohos: 1266ms
+2023-03-05T14:57:05.949Z - verbose: [Build-plugin] register pkg huawei-agc: 1636ms
+2023-03-05T14:57:05.953Z - verbose: [Build-plugin] register pkg huawei-quick-game: 1611ms
+2023-03-05T14:57:05.957Z - verbose: [Build-plugin] register pkg mac: 1529ms
+2023-03-05T14:57:05.962Z - verbose: [Build-plugin] register pkg taobao-creative-app: 1175ms
+2023-03-05T14:57:05.968Z - verbose: [Build-plugin] register pkg wechatgame: 993ms
+2023-03-05T14:57:05.972Z - verbose: [Build-plugin] register pkg web-mobile: 1040ms
+2023-03-05T14:57:05.976Z - verbose: [Build-plugin] register pkg windows: 971ms
+2023-03-05T14:57:05.998Z - verbose: [Package] placeholder@1.0.0 enable
+2023-03-05T14:57:06.006Z - verbose: [Build-plugin] register pkg oppo-mini-game: 1272ms
+2023-03-05T14:57:06.010Z - verbose: [Build-plugin] register pkg web-desktop: 1121ms
+2023-03-05T14:57:06.015Z - verbose: [Build-plugin] register pkg xiaomi-quick-game: 981ms
+2023-03-05T14:57:06.021Z - verbose: [Build-plugin] register pkg vivo-mini-game: 1204ms
+2023-03-05T14:57:06.600Z - verbose: asset-db is ready!
+2023-03-05T14:57:16.478Z - info: [Scene] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-03-05T14:57:16.498Z - info: [Scene] [PHYSICS]: using builtin.
+2023-03-05T14:57:16.785Z - info: [Preview] preview process is ready
+2023-03-05T14:57:16.816Z - log: [Scene] Cocos Creator v3.7.1
+2023-03-05T14:57:16.817Z - info: [Scene] Forward render pipeline initialized.
+2023-03-05T14:57:17.035Z - info: [Scene] [PHYSICS]: switch from builtin to bullet.
+2023-03-05T14:57:17.100Z - info: [Scene] [PHYSICS2D]: switch from builtin to box2d.
+2023-03-05T14:57:27.546Z - info: [Preview] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-03-05T14:57:27.569Z - info: [Preview] [PHYSICS]: using builtin.
+2023-03-05T14:57:27.771Z - log: [Preview] Cocos Creator v3.7.1
+2023-03-05T14:57:27.771Z - info: [Preview] Forward render pipeline initialized.
+2023-03-05T14:57:27.953Z - info: [Preview] [PHYSICS]: switch from builtin to bullet.
+2023-03-05T14:57:27.997Z - info: [Preview] [PHYSICS2D]: switch from builtin to box2d.
+2023-03-05T14:58:57.300Z - log: [Window] Deprecated as of 10.7.0. highlight(lang, code, ...args) has been deprecated.
+2023-03-05T14:58:57.301Z - log: [Window] Deprecated as of 10.7.0. Please use highlight(code, options) instead.
 https://github.com/highlightjs/highlight.js/issues/2277
-2023-03-05T14:19:48.841Z - warn: Please set the application in Preferences -> External Programs -> Default Script Editor to better open the script
-2023-03-05T14:20:13.609Z - warn: Please set the application in Preferences -> External Programs -> Default Script Editor to better open the script
-2023-03-05T14:22:10.386Z - warn: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.Error: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.
+2023-03-05T14:58:57.321Z - warn: Please set the application in Preferences -> External Programs -> Default Script Editor to better open the script
+2023-03-05T15:00:59.918Z - warn: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.Error: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.
     at warn (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152073:12)
     at warnID (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152292:5)
     at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167554:7)
     at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167574:7)
-    at Object.execute (file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/temp/programming/packer-driver/targets/editor/chunks/98/989edae9b180f4ca61fffc951f6409deb333b504.js:33:7)
+    at Object.execute (file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/temp/programming/packer-driver/targets/editor/chunks/cf/cfac0133f3c11fb2c5051c9d803362c8f2c83588.js:33:7)
     at doExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
     at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
-2023-03-05T14:22:10.410Z - warn: [Scene] 'SystemEventType' is deprecated since v3.3.0, please use 'Input.EventType' instead.Error: [Scene] 'SystemEventType' is deprecated since v3.3.0, please use 'Input.EventType' instead.
+2023-03-05T15:01:00.024Z - warn: [Scene] 'SystemEventType' is deprecated since v3.3.0, please use 'Input.EventType' instead.Error: [Scene] 'SystemEventType' is deprecated since v3.3.0, please use 'Input.EventType' instead.
     at warn (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152073:12)
     at warnID (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152292:5)
     at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167554:7)
     at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167574:7)
-    at Object.execute (file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/temp/programming/packer-driver/targets/editor/chunks/98/989edae9b180f4ca61fffc951f6409deb333b504.js:33:7)
+    at Object.execute (file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/temp/programming/packer-driver/targets/editor/chunks/cf/cfac0133f3c11fb2c5051c9d803362c8f2c83588.js:33:7)
     at doExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
     at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
-2023-03-05T14:25:31.520Z - warn: Please set the application in Preferences -> External Programs -> Default Script Editor to better open the script
-2023-03-05T14:26:45.724Z - warn: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.Error: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.
-    at warn (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152073:12)
-    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152292:5)
-    at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167554:7)
-    at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167574:7)
-    at Object.execute (file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/temp/programming/packer-driver/targets/editor/chunks/98/989edae9b180f4ca61fffc951f6409deb333b504.js:33:7)
-    at doExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
-    at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
-2023-03-05T14:26:45.726Z - warn: [Scene] 'SystemEventType' is deprecated since v3.3.0, please use 'Input.EventType' instead.Error: [Scene] 'SystemEventType' is deprecated since v3.3.0, please use 'Input.EventType' instead.
-    at warn (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152073:12)
-    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152292:5)
-    at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167554:7)
-    at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167574:7)
-    at Object.execute (file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/temp/programming/packer-driver/targets/editor/chunks/98/989edae9b180f4ca61fffc951f6409deb333b504.js:33:7)
-    at doExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
-    at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
-2023-03-05T14:27:32.028Z - warn: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.Error: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.
-    at warn (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152073:12)
-    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152292:5)
-    at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167554:7)
-    at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167574:7)
-    at Object.execute (file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/temp/programming/packer-driver/targets/editor/chunks/75/75b9bb32b7a1aa42126c92400935da1487ffeb8b.js:41:7)
-    at doExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
-    at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
-2023-03-05T14:27:32.036Z - warn: [Scene] 'SystemEventType' is deprecated since v3.3.0, please use 'Input.EventType' instead.Error: [Scene] 'SystemEventType' is deprecated since v3.3.0, please use 'Input.EventType' instead.
-    at warn (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152073:12)
-    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152292:5)
-    at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167554:7)
-    at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167574:7)
-    at Object.execute (file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/temp/programming/packer-driver/targets/editor/chunks/75/75b9bb32b7a1aa42126c92400935da1487ffeb8b.js:41:7)
-    at doExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
-    at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
-2023-03-05T14:31:42.159Z - info: [Window] Finish copying: 192.168.0.139:7457
+2023-03-05T15:01:20.863Z - warn: Please set the application in Preferences -> External Programs -> Default Script Editor to better open the script
+2023-03-05T15:01:36.146Z - verbose: [
+2023-03-05T15:01:36.146Z - verbose: [
+2023-03-05T15:01:36.146Z - verbose: [
+2023-03-05T15:01:36.147Z - verbose: [
+2023-03-05T15:01:36.147Z - verbose: [
+2023-03-05T15:01:36.147Z - verbose: [
+2023-03-05T15:01:36.147Z - verbose: [
+2023-03-05T15:01:36.147Z - verbose: [
+2023-03-05T15:01:36.147Z - verbose: [
+2023-03-05T15:01:36.147Z - verbose: [
+2023-03-05T15:01:36.147Z - verbose: [
+2023-03-05T15:01:36.147Z - verbose: [
+2023-03-05T15:01:36.147Z - verbose: [
+2023-03-05T15:01:36.150Z - verbose: [
+2023-03-05T15:01:36.261Z - verbose: [
+2023-03-05T15:01:36.261Z - verbose: [
+2023-03-05T15:01:36.342Z - verbose: [
+2023-03-05T15:01:36.387Z - verbose: [
+2023-03-05T15:01:36.393Z - verbose: [
+2023-03-05T15:01:36.393Z - verbose: B
+2023-03-05T15:01:41.584Z - warn: [Assets] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.[Assets] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.  
+at warn (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152073:12)  
+at warnID (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152292:5)  
+at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167554:7)  
+at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167574:7)  
+at Object.execute (file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/temp/programming/packer-driver/targets/editor/chunks/cf/cfac0133f3c11fb2c5051c9d803362c8f2c83588.js:33:7)  
+at doExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+2023-03-05T15:01:41.659Z - warn: [Assets] 'SystemEventType' is deprecated since v3.3.0, please use 'Input.EventType' instead.[Assets] 'SystemEventType' is deprecated since v3.3.0, please use 'Input.EventType' instead.  
+at warn (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152073:12)  
+at warnID (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152292:5)  
+at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167554:7)  
+at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167574:7)  
+at Object.execute (file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/temp/programming/packer-driver/targets/editor/chunks/cf/cfac0133f3c11fb2c5051c9d803362c8f2c83588.js:33:7)  
+at doExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+2023-03-05T15:06:17.115Z - warn: [Assets] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.[Assets] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.  
+at warn (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152073:12)  
+at warnID (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152292:5)  
+at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167554:7)  
+at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167574:7)  
+at Object.execute (file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/temp/programming/packer-driver/targets/editor/chunks/cf/cfac0133f3c11fb2c5051c9d803362c8f2c83588.js:33:7)  
+at doExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+2023-03-05T15:06:17.116Z - warn: [Assets] 'SystemEventType' is deprecated since v3.3.0, please use 'Input.EventType' instead.[Assets] 'SystemEventType' is deprecated since v3.3.0, please use 'Input.EventType' instead.  
+at warn (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152073:12)  
+at warnID (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152292:5)  
+at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167554:7)  
+at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167574:7)  
+at Object.execute (file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/temp/programming/packer-driver/targets/editor/chunks/cf/cfac0133f3c11fb2c5051c9d803362c8f2c83588.js:33:7)  
+at doExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+2023-03-05T15:07:15.041Z - warn: [Assets] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.[Assets] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.  
+at warn (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152073:12)  
+at warnID (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152292:5)  
+at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167554:7)  
+at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167574:7)  
+at Object.execute (file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/temp/programming/packer-driver/targets/editor/chunks/cf/cfac0133f3c11fb2c5051c9d803362c8f2c83588.js:33:7)  
+at doExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+2023-03-05T15:07:15.042Z - warn: [Assets] 'SystemEventType' is deprecated since v3.3.0, please use 'Input.EventType' instead.[Assets] 'SystemEventType' is deprecated since v3.3.0, please use 'Input.EventType' instead.  
+at warn (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152073:12)  
+at warnID (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152292:5)  
+at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167554:7)  
+at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:167574:7)  
+at Object.execute (file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/temp/programming/packer-driver/targets/editor/chunks/cf/cfac0133f3c11fb2c5051c9d803362c8f2c83588.js:33:7)  
+at doExec (D:\CocosDashboard\resources\.editors\Creator\3.7.1\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+2023-03-05T15:07:38.684Z - error: Build task is busy!

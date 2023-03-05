@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 34365.1753,
+      "mTimestamp": 11579.80150000006,
       "chunkId": "cee638a986ad8fae09398db255647defcaa6612a",
       "imports": [
         {
@@ -619,7 +619,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 662819.5051,
+      "mTimestamp": 249145.93060000008,
       "chunkId": "6324fd7f2a6a90bef45040fcb7ce34af0ba6a7d3",
       "imports": [
         {
@@ -671,15 +671,11 @@
     },
     "file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/assets/character/player.ts": {
       "mTimestamp": {
-        "mtime": 1678026447398.4092,
+        "mtime": 1678028453134.3977,
         "uuid": "963218c5-67a7-45c2-9613-bbd6219135fd"
       },
-      "chunkId": "75b9bb32b7a1aa42126c92400935da1487ffeb8b",
+      "chunkId": "cfac0133f3c11fb2c5051c9d803362c8f2c83588",
       "imports": [
-        {
-          "value": "cce:/internal/code-quality/cr.mjs",
-          "resolved": "__unresolved_0"
-        },
         {
           "value": "cc"
         },
@@ -690,25 +686,12 @@
           "value": "cc",
           "loc": {
             "start": {
-              "line": 2,
-              "column": 205
+              "line": 1,
+              "column": 183
             },
             "end": {
-              "line": 2,
-              "column": 209
-            }
-          }
-        },
-        {
-          "value": "@vkontakte/vk-bridge",
-          "loc": {
-            "start": {
-              "line": 3,
-              "column": 19
-            },
-            "end": {
-              "line": 3,
-              "column": 41
+              "line": 1,
+              "column": 187
             }
           }
         }
@@ -718,13 +701,6 @@
         {
           "resolved": {
             "type": "module",
-            "url": "cce:/internal/code-quality/cr.mjs"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
             "url": "cce:/internal/x/cc"
           },
           "messages": []
@@ -740,13 +716,6 @@
           "resolved": {
             "type": "module",
             "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/node_modules/@vkontakte/vk-bridge/dist/index.mjs?cjs=&original=.js"
           },
           "messages": []
         }
@@ -754,7 +723,7 @@
     },
     "file:///D:/Documents/2d-game-cocos-creator-v.3-main/2d-game-cocos-creator-v.3-main/assets/star/star.ts": {
       "mTimestamp": {
-        "mtime": 1678026402130.3945,
+        "mtime": 1678028023461.0562,
         "uuid": "a2d41e11-5136-4182-b94d-b8732fdfd630"
       },
       "chunkId": "b5ba39d7bde99cf15c23b828d0ad2a03d14a0d15",
