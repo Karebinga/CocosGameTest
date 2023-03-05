@@ -1,0 +1,163 @@
+{
+  "21a450a4-39ea-4d29-a93c-378a9bcfd92c": {
+    "url": "db://assets/character",
+    "value": {}
+  },
+  "68ff0728-7b86-4eda-80c0-3a8710eee5e9": {
+    "url": "db://assets/scenes",
+    "value": {}
+  },
+  "2420e034-186a-4d93-a22f-1141534ee76d": {
+    "url": "db://assets/star",
+    "value": {}
+  },
+  "963218c5-67a7-45c2-9613-bbd6219135fd": {
+    "url": "db://assets/character/player.ts",
+    "value": {}
+  },
+  "a2d41e11-5136-4182-b94d-b8732fdfd630": {
+    "url": "db://assets/star/star.ts",
+    "value": {}
+  },
+  "fe109875-f472-455e-ad48-b2c4d6d3bee8": {
+    "url": "db://assets/character/idle.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "7cdec01b-ecfb-4ee0-b1ca-03636a70f8cd": {
+    "url": "db://assets/background.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "66f9e263-be39-4411-9791-306b1da00ff0": {
+    "url": "db://assets/ground.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "b4fb965a-f597-441e-b4d3-cff17f83c767": {
+    "url": "db://assets/platform.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "808100df-78d4-475e-94c2-ef05b3190137": {
+    "url": "db://assets/character/PurpleMonster.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "b4fb965a-f597-441e-b4d3-cff17f83c767@6c48a": {
+    "url": "db://assets/platform.png@6c48a",
+    "value": {
+      "depends": [
+        "b4fb965a-f597-441e-b4d3-cff17f83c767"
+      ]
+    }
+  },
+  "7cdec01b-ecfb-4ee0-b1ca-03636a70f8cd@6c48a": {
+    "url": "db://assets/background.jpg@6c48a",
+    "value": {
+      "depends": [
+        "7cdec01b-ecfb-4ee0-b1ca-03636a70f8cd"
+      ]
+    }
+  },
+  "808100df-78d4-475e-94c2-ef05b3190137@6c48a": {
+    "url": "db://assets/character/PurpleMonster.png@6c48a",
+    "value": {
+      "depends": [
+        "808100df-78d4-475e-94c2-ef05b3190137"
+      ]
+    }
+  },
+  "5d58b6ff-28b3-4b40-82f3-31d57103930e": {
+    "url": "db://assets/scenes/scene.scene",
+    "value": {
+      "depends": [
+        "5d58b6ff-28b3-4b40-82f3-31d57103930e",
+        "7cdec01b-ecfb-4ee0-b1ca-03636a70f8cd@f9941",
+        "b4fb965a-f597-441e-b4d3-cff17f83c767@f9941",
+        "66f9e263-be39-4411-9791-306b1da00ff0@f9941",
+        "db196718-d1c7-462c-aaf2-6f1f7e93b61f",
+        "db196718-d1c7-462c-aaf2-6f1f7e93b61f",
+        "808100df-78d4-475e-94c2-ef05b3190137@f9941",
+        "fe109875-f472-455e-ad48-b2c4d6d3bee8",
+        "fe109875-f472-455e-ad48-b2c4d6d3bee8",
+        "5d58b6ff-28b3-4b40-82f3-31d57103930e"
+      ]
+    }
+  },
+  "66f9e263-be39-4411-9791-306b1da00ff0@6c48a": {
+    "url": "db://assets/ground.png@6c48a",
+    "value": {
+      "depends": [
+        "66f9e263-be39-4411-9791-306b1da00ff0"
+      ]
+    }
+  },
+  "b4fb965a-f597-441e-b4d3-cff17f83c767@f9941": {
+    "url": "db://assets/platform.png@f9941",
+    "value": {
+      "depends": [
+        "b4fb965a-f597-441e-b4d3-cff17f83c767@6c48a"
+      ]
+    }
+  },
+  "61ef5d7a-559a-44e9-8503-4dadda0635dd": {
+    "url": "db://assets/star/star.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "808100df-78d4-475e-94c2-ef05b3190137@f9941": {
+    "url": "db://assets/character/PurpleMonster.png@f9941",
+    "value": {
+      "depends": [
+        "808100df-78d4-475e-94c2-ef05b3190137@6c48a"
+      ]
+    }
+  },
+  "7cdec01b-ecfb-4ee0-b1ca-03636a70f8cd@f9941": {
+    "url": "db://assets/background.jpg@f9941",
+    "value": {
+      "depends": [
+        "7cdec01b-ecfb-4ee0-b1ca-03636a70f8cd@6c48a"
+      ]
+    }
+  },
+  "66f9e263-be39-4411-9791-306b1da00ff0@f9941": {
+    "url": "db://assets/ground.png@f9941",
+    "value": {
+      "depends": [
+        "66f9e263-be39-4411-9791-306b1da00ff0@6c48a"
+      ]
+    }
+  },
+  "db196718-d1c7-462c-aaf2-6f1f7e93b61f": {
+    "url": "db://assets/star/star.prefab",
+    "value": {
+      "depends": [
+        "61ef5d7a-559a-44e9-8503-4dadda0635dd@f9941"
+      ]
+    }
+  },
+  "61ef5d7a-559a-44e9-8503-4dadda0635dd@6c48a": {
+    "url": "db://assets/star/star.png@6c48a",
+    "value": {
+      "depends": [
+        "61ef5d7a-559a-44e9-8503-4dadda0635dd"
+      ]
+    }
+  },
+  "61ef5d7a-559a-44e9-8503-4dadda0635dd@f9941": {
+    "url": "db://assets/star/star.png@f9941",
+    "value": {
+      "depends": [
+        "61ef5d7a-559a-44e9-8503-4dadda0635dd@6c48a"
+      ]
+    }
+  }
+}

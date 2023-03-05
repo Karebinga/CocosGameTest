@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "compilerOptions": {
+    "target": "ES2015",
+    "module": "ES2015",
+    "strict": true,
+    "types": [
+      "./temp/declarations/jsb",
+      "./temp/declarations/cc",
+      "./temp/declarations/cc.custom-macro",
+      "./temp/declarations/cc.env"
+    ],
+    "paths": {
+      "db://internal/*": [
+        "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.7.1\\resources\\resources\\3d\\engine\\editor\\assets\\*"
+      ],
+      "db://assets/*": [
+        "D:\\Documents\\2d-game-cocos-creator-v.3-main\\2d-game-cocos-creator-v.3-main\\assets\\*"
+      ]
+    },
+    "experimentalDecorators": true,
+    "isolatedModules": true,
+    "moduleResolution": "node",
+    "noEmit": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
